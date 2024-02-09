@@ -4,11 +4,25 @@ I'm a passionate **MERN stack developer**. 💬 Ask me about React, HTML, CSS, J
 
 ## 🚀 Skills
 
-- **Languages:** JavaScript (ES6+), HTML5, CSS3
-- **Frontend:** React, Bootstrap, Sass, Tailwind CSS
-- **Backend:** Node.js, Express.js
-- **Databases:** MongoDB, MySQL
-- **Version Control:** Git
+- **Languages:** 
+  - ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
+  - ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)
+  - ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)
+
+- **Frontend:** 
+  - ![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoColor=white)
+  - ![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white)
+  - ![Sass](https://img.shields.io/badge/-Sass-pink?style=for-the-badge&logo=sass&logoColor=white)
+  - ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-blueviolet?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+- **Backend:** 
+  - ![Node.js](https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=node.js&logoColor=white)
+  - ![Express.js](https://img.shields.io/badge/-Express.js-lightgrey?style=for-the-badge&logo=express&logoColor=white)
+
+- **Databases:** 
+  - ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white)
+  - ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 ## 🌐 Connect with Me
 
