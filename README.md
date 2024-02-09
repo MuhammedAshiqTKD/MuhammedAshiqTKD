@@ -12,9 +12,9 @@ I'm a passionate **MERN stack developer**. 💬 Ask me about React, HTML, CSS, J
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/muhammed-ashiq-ak-9a05b92ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F)](https://www.instagram.com/ashiq__.ak?utm_source=qr&igshid=amZmNGZ0MTM0bGJh)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](http://ashiqaktkd.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammed-ashiq-ak-9a05b92ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/ashiq__.ak?utm_source=qr&igshid=amZmNGZ0MTM0bGJh)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=for-the-badge&logo=web)](http://ashiqaktkd.netlify.app/)
 
 ## 📊 GitHub Activity Graph
 
@@ -32,10 +32,10 @@ Here's a snapshot of my recent GitHub activity:
 
 ## 🚀 Top Projects
 
-1. [![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=MuhammedAshiqTKD&repo=E-COMMERCE-COSMETICS&theme=dark)](https://github.com/MuhammedAshiqTKD/E-COMMERCE-COSMETICS)
-2. [![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=MuhammedAshiqTKD&repo=COLLEGE-MANAGEMENT&theme=dark)](https://github.com/MuhammedAshiqTKD/COLLEGE-MANAGEMENT)
-3. [![Project 3](https://github-readme-stats.vercel.app/api/pin/?username=MuhammedAshiqTKD&repo=PORTFOLIO-MAIN&theme=dark)](https://github.com/MuhammedAshiqTKD/PORTFOLIO-MAIN)
-4. [![Wooody](https://img.shields.io/badge/Wooody-Visit-9cf)](https://wooody.netlify.app)
-5.[![Giftoos](https://img.shields.io/badge/Giftoos-Visit-ff69b4)](https://giftoos.netlify.app/)
-6.[![Kalyanjwlry](https://img.shields.io/badge/Kalyanjwlry-Visit-blueviolet)](https://kalyanjwlry.netlify.app/)
-7.[![OdinMain](https://img.shields.io/badge/OdinMain-Visit-yellow)](https://odinmain.netlify.app/)
+1. [![E-COMMERCE-COSMETICS](https://github-readme-stats.vercel.app/api/pin/?username=MuhammedAshiqTKD&repo=E-COMMERCE-COSMETICS&theme=dark)](https://github.com/MuhammedAshiqTKD/E-COMMERCE-COSMETICS)
+2. [![COLLEGE-MANAGEMENT](https://github-readme-stats.vercel.app/api/pin/?username=MuhammedAshiqTKD&repo=COLLEGE-MANAGEMENT&theme=dark)](https://github.com/MuhammedAshiqTKD/COLLEGE-MANAGEMENT)
+3. [![PORTFOLIO-MAIN](https://github-readme-stats.vercel.app/api/pin/?username=MuhammedAshiqTKD&repo=PORTFOLIO-MAIN&theme=dark)](https://github.com/MuhammedAshiqTKD/PORTFOLIO-MAIN)
+4. [![Wooody](https://img.shields.io/badge/Wooody-Visit-9cf?style=for-the-badge)](https://wooody.netlify.app)
+5. [![Giftoos](https://img.shields.io/badge/Giftoos-Visit-ff69b4?style=for-the-badge)](https://giftoos.netlify.app/)
+6. [![Kalyanjwlry](https://img.shields.io/badge/Kalyanjwlry-Visit-blueviolet?style=for-the-badge)](https://kalyanjwlry.netlify.app/)
+7. [![OdinMain](https://img.shields.io/badge/OdinMain-Visit-yellow?style=for-the-badge)](https://odinmain.netlify.app/)
