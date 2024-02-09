@@ -2,6 +2,14 @@
 
 I'm a passionate **MERN stack developer** with a strong foundation in web development technologies. My expertise lies in crafting dynamic and responsive web applications using the MERN (MongoDB, Express.js, React, Node.js) stack. Whether it's building user interfaces with React, designing database schemas with MongoDB, or creating robust server-side applications with Node.js and Express.js, I'm always up for a coding challenge.
 
+
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammed-ashiq-ak-9a05b92ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/ashiq__.ak?utm_source=qr&igshid=amZmNGZ0MTM0bGJh)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=for-the-badge&logo=web)](http://ashiqaktkd.netlify.app/)
+
+
+
 ## 🚀 Skills
 
 ### Languages
@@ -28,13 +36,6 @@ I'm a passionate **MERN stack developer** with a strong foundation in web develo
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammed-ashiq-ak-9a05b92ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/ashiq__.ak?utm_source=qr&igshid=amZmNGZ0MTM0bGJh)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=for-the-badge&logo=web)](http://ashiqaktkd.netlify.app/)
-
-## 📊 GitHub Activity Graph
-![Your GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MuhammedAshiqTKD&theme=github)
 
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammedAshiqTKD&count_private=true&show_icons=true&theme=radical)
