@@ -1,5 +1,5 @@
 # Hi there! 👋 I'm MUHAMMED ASHIQ
-
+![Your Name](URL_TO_YOUR_PROFILE_PICTURE)
 I'm a passionate **MERN stack developer**. 💬 Ask me about React, HTML, CSS, JavaScript, and Express.js.
 
 ## 🚀 Skills
