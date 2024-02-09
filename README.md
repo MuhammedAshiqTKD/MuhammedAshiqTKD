@@ -35,3 +35,7 @@ Here's a snapshot of my recent GitHub activity:
 1. [![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=MuhammedAshiqTKD&repo=E-COMMERCE-COSMETICS&theme=dark)](https://github.com/MuhammedAshiqTKD/E-COMMERCE-COSMETICS)
 2. [![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=MuhammedAshiqTKD&repo=COLLEGE-MANAGEMENT&theme=dark)](https://github.com/MuhammedAshiqTKD/COLLEGE-MANAGEMENT)
 3. [![Project 3](https://github-readme-stats.vercel.app/api/pin/?username=MuhammedAshiqTKD&repo=PORTFOLIO-MAIN&theme=dark)](https://github.com/MuhammedAshiqTKD/PORTFOLIO-MAIN)
+4. [![Wooody](https://img.shields.io/badge/Wooody-Visit-9cf)](https://wooody.netlify.app)
+5.[![Giftoos](https://img.shields.io/badge/Giftoos-Visit-ff69b4)](https://giftoos.netlify.app/)
+6.[![Kalyanjwlry](https://img.shields.io/badge/Kalyanjwlry-Visit-blueviolet)](https://kalyanjwlry.netlify.app/)
+7.[![OdinMain](https://img.shields.io/badge/OdinMain-Visit-yellow)](https://odinmain.netlify.app/)
