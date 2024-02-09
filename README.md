@@ -29,9 +29,6 @@ I'm a passionate **MERN stack developer**. 💬 Ask me about React, HTML, CSS, J
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/ashiq__.ak?utm_source=qr&igshid=amZmNGZ0MTM0bGJh)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=for-the-badge&logo=web)](http://ashiqaktkd.netlify.app/)
 
-## 📊 GitHub Activity Graph
-
-![Your GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MuhammedAshiqTKD&theme=github)
 
 ## 📈 GitHub Stats
 
