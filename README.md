@@ -32,10 +32,10 @@ Here's a snapshot of my recent GitHub activity:
 
 ## 🚀 Top Projects
 
-1. [![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=MuhammedAshiqTKD&repo=E-COMMERCE-COSMETICS&theme=dark)](https://github.com/MuhammedAshiqTKD/E-COMMERCE-COSMETICS.git)
-2. [![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=MuhammedAshiqTKD&repo=COLLEGE-MANAGEMENT&theme=dark)](https://github.com/MuhammedAshiqTKD/COLLEGE-MANAGEMENT.git)
-3. [![Project 3](https://github-readme-stats.vercel.app/api/pin/?username=MuhammedAshiqTKD&repo=PORTFOLIO-MAIN&theme=dark)](https://github.com/MuhammedAshiqTKD/PORTFOLIO-MAIN.git)
-4. [![Project 4](https://github-readme-stats.vercel.app/api/pin/?username=MuhammedAshiqTKD&repo=wooody&theme=dark)](https://wooody.netlify.app)
-5. [![Project 5](https://github-readme-stats.vercel.app/api/pin/?username=MuhammedAshiqTKD&repo=giftoos&theme=dark)](https://giftoos.netlify.app/)
-6. [![Project 6](https://github-readme-stats.vercel.app/api/pin/?username=MuhammedAshiqTKD&repo=kalyanjwlry&theme=dark)](https://kalyanjwlry.netlify.app/)
-7. [![Project 7](https://github-readme-stats.vercel.app/api/pin/?username=MuhammedAshiqTKD&repo=odinmain&theme=dark)](https://odinmain.netlify.app/)
+1. [![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=MuhammedAshiqTKD&repo=E-COMMERCE-COSMETICS&theme=dark)](https://github.com/MuhammedAshiqTKD/E-COMMERCE-COSMETICS)
+2. [![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=MuhammedAshiqTKD&repo=COLLEGE-MANAGEMENT&theme=dark)](https://github.com/MuhammedAshiqTKD/COLLEGE-MANAGEMENT)
+3. [![Project 3](https://github-readme-stats.vercel.app/api/pin/?username=MuhammedAshiqTKD&repo=PORTFOLIO-MAIN&theme=dark)](https://github.com/MuhammedAshiqTKD/PORTFOLIO-MAIN)
+4. [![Project 4](https://github-readme-stats.vercel.app/api/pin/?username=MuhammedAshiqTKD&repo=wooody&theme=dark)](https://github.com/MuhammedAshiqTKD/wooody)
+5. [![Project 5](https://github-readme-stats.vercel.app/api/pin/?username=MuhammedAshiqTKD&repo=giftoos&theme=dark)](https://github.com/MuhammedAshiqTKD/giftoos)
+6. [![Project 6](https://github-readme-stats.vercel.app/api/pin/?username=MuhammedAshiqTKD&repo=kalyanjwlry&theme=dark)](https://github.com/MuhammedAshiqTKD/kalyanjwlry)
+7. [![Project 7](https://github-readme-stats.vercel.app/api/pin/?username=MuhammedAshiqTKD&repo=odinmain&theme=dark)](https://github.com/MuhammedAshiqTKD/odinmain)
