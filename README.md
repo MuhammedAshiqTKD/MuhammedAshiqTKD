@@ -1,109 +1,113 @@
-<!-- PROFILE BANNER IMAGE -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MuhammedAshiqTKD/MuhammedAshiqTKD/main/banner.png" alt="Banner" width="100%" />
-</p>
-
-# Hi 👋, I'm Muhammed Ashiq  
+# 👋 Hi, I'm Muhammed Ashiq  
 ### MERN Stack Developer | Full Stack Web Developer  
 
-🚀 Building scalable web apps • 💻 React & Node.js Developer • 🌍 Open to Opportunities  
+🚀 Building scalable web apps | 💻 React & Node.js Specialist | 🌍 Open to Opportunities  
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect With Me  
 
-<p align="center">
-<a href="https://www.linkedin.com/in/muhammed-ashiq-ak-9a05b92ab">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-</a>
-<a href="https://www.instagram.com/ashiq__.ak">
-  <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram" />
-</a>
-<a href="http://ashiqaktkd.netlify.app">
-  <img src="https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=google-chrome" />
-</a>
-</p>
+- 💼 LinkedIn: https://www.linkedin.com/in/muhammed-ashiq-ak-9a05b92ab  
+- 📸 Instagram: https://www.instagram.com/ashiq__.ak  
+- 🌐 Portfolio: http://ashiqaktkd.netlify.app  
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me  
 
 - 🔥 Full Stack MERN Developer  
-- ⚡ Expert in React, Node.js, Express & MongoDB  
-- 🎨 Strong UI/UX & responsive design skills  
+- ⚡ Strong in React, Node.js, Express & MongoDB  
+- 🎨 Passionate about UI/UX and responsive design  
 - 🌱 Learning Next.js, TypeScript & Backend Architecture  
-- 🎯 Goal: Work in a global tech company & build impactful products  
+- 🎯 Goal: Work in a global tech company and build impactful products  
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack  
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=js,html,css,react,tailwind,bootstrap,sass,nodejs,express,mongodb,mysql,git,github,vscode" />
-</p>
+### Languages  
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)  
+![HTML](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)  
+![CSS](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)  
 
----
+### Frontend  
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)  
+![Tailwind](https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge&logo=tailwind-css)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap)  
 
-## 📸 Project Screenshots
+### Backend  
+![Node](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)  
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)  
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/MuhammedAshiqTKD/MuhammedAshiqTKD/main/project1.png" width="45%" />
-<img src="https://raw.githubusercontent.com/MuhammedAshiqTKD/MuhammedAshiqTKD/main/project2.png" width="45%" />
-</p>
+### Databases  
+![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)  
+![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)  
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/MuhammedAshiqTKD/MuhammedAshiqTKD/main/project3.png" width="45%" />
-<img src="https://raw.githubusercontent.com/MuhammedAshiqTKD/MuhammedAshiqTKD/main/project4.png" width="45%" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MuhammedAshiqTKD&show_icons=true&theme=dark" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammedAshiqTKD&theme=dark" width="48%" />
-</p>
+### Tools  
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)  
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)  
+![VSCode](https://img.shields.io/badge/VS_Code-black?style=for-the-badge&logo=visual-studio-code)  
 
 ---
 
-## 🚀 Featured Projects
+## 📊 GitHub Stats  
 
-| Project | Link |
-|---------|------|
-| 🛒 E-Commerce Cosmetics | https://github.com/MuhammedAshiqTKD/E-COMMERCE-COSMETICS |
-| 🎓 College Management | https://github.com/MuhammedAshiqTKD/COLLEGE-MANAGEMENT |
-| 🌐 Portfolio | https://ashiqaktkd.netlify.app |
-| 🌳 Wooody | https://wooody.netlify.app |
-| 🎁 Giftoos | https://giftoos.netlify.app |
-| 💎 Kalyan Jewelry | https://kalyanjwlry.netlify.app |
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammedAshiqTKD&show_icons=true&theme=tokyonight)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedAshiqTKD&layout=compact&theme=tokyonight)  
 
 ---
 
-## 🎯 2026 Developer Roadmap
+## 🔥 GitHub Streak  
 
-- ✅ MERN Stack Mastery  
-- 🔄 Next.js & TypeScript  
-- 🔄 Backend APIs & Microservices  
-- 🔄 DevOps & Docker  
-- 🔄 Open Source Contributions  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MuhammedAshiqTKD&theme=tokyonight)  
 
 ---
 
-## 🧑‍💻 My Coding Workspace
+## 🚀 Featured Projects  
 
-<p align="center">
-<img src="https://img.shields.io/badge/OS-Windows-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Editor-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code" />
-<img src="https://img.shields.io/badge/Browser-Chrome-yellow?style=for-the-badge&logo=google-chrome" />
-</p>
+- 🛒 **E-Commerce Cosmetics**  
+  https://github.com/MuhammedAshiqTKD/E-COMMERCE-COSMETICS  
+
+- 🎓 **College Management System**  
+  https://github.com/MuhammedAshiqTKD/COLLEGE-MANAGEMENT  
+
+- 🌐 **Portfolio Website**  
+  https://ashiqaktkd.netlify.app  
+
+- 🌳 **Wooody**  
+  https://wooody.netlify.app  
+
+- 🎁 **Giftoos**  
+  https://giftoos.netlify.app  
+
+- 💎 **Kalyan Jewelry**  
+  https://kalyanjwlry.netlify.app  
+
+---
+
+## 🎯 Developer Goals 2026  
+
+- Build enterprise-level MERN applications  
+- Learn Next.js & TypeScript  
+- Contribute to open-source  
+- Improve backend architecture & APIs  
+
+---
+
+## 💻 My Workspace  
+
+- OS: Windows  
+- Editor: VS Code  
+- Browser: Chrome  
+- Tools: Git, GitHub, Postman  
 
 ---
 
 ## 👀 Profile Visitors  
-![Profile Views](https://komarev.com/ghpvc/?username=MuhammedAshiqTKD&color=blue&style=for-the-badge)
+
+![Profile Views](https://komarev.com/ghpvc/?username=MuhammedAshiqTKD&color=blue)  
 
 ---
 
-⭐ If you like my work, give a star and follow!
-
+⭐ If you like my projects, give a star and follow!
