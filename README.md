@@ -9,7 +9,7 @@
 
 - 💼 LinkedIn: https://www.linkedin.com/in/muhammed-ashiq-ak-9a05b92ab  
 - 📸 Instagram: https://www.instagram.com/ashiq__.ak  
-- 🌐 Portfolio: http://ashiqaktkd.netlify.app  
+- 🌐 Portfolio: https://my-website-profile.netlify.app/
 
 ---
 
