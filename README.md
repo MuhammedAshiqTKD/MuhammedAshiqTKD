@@ -7,7 +7,7 @@
 
 ## 🌐 Connect With Me  
 
-- 💼 LinkedIn: https://www.linkedin.com/in/muhammed-ashiq-ak-9a05b92ab  
+- 💼 LinkedIn: www.linkedin.com/in/muhammed-ashiq-437249352
 - 📸 Instagram: https://www.instagram.com/ashiq__.ak  
 - 🌐 Portfolio: https://my-website-profile.netlify.app/
 
